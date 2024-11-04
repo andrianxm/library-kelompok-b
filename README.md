@@ -1,7 +1,6 @@
-SLiMS 9 Bulian
+LIBRARY KELOMPOK 9
 ===============
-SENAYAN Library Management System (SLiMS) version 9 Codename Bulian
-
+SENAYAN Library Management System (SLiMS) version 9
 SLiMS is free open source software for library resources management
 (such as books, journals, digital document and other library materials)
 and administration such as collection circulation, collection management,
@@ -16,3 +15,8 @@ to learn more about GPL.
 - PHP GD enabled
 - PHP gettext enabled
 - PHP mbstring enabled
+
+### DB 
+- username: user
+- password: librarymanagementsystem
+- link: https://drive.google.com/uc?export=download&id=1H1OeUXblz4TCAllHpUuJm8KYcVb8amgz
